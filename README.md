@@ -36,7 +36,7 @@ python train_convntm.py \
 ```
 
 ## Model Inference
-To evaluate an existing model, set the "load_pretrain_ntm" and "only_eval" to True, and and place checkpoints for the NTM model and the Encoder model on suitable paths.
+To evaluate an existing model, set the `load_pretrain_ntm` and `only_eval` in the config file to True, and and place checkpoints for the NTM model and the Encoder model on suitable paths.
 
 For DailyDialog:
 ```
