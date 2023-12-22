@@ -2,6 +2,10 @@
 
 This repository is a PyTorch implementation of our AAAI 2023 paper **"[ConvNTM: Conversational Neural Topic Model](https://ojs.aaai.org/index.php/AAAI/article/view/26595)"**
 
+## Updates
+
+**December 22, 2023**: We are pleased to announce that the `co_matrix` files are now available for download at https://huggingface.co/datasets/ssshddd/ConvNTM/. These files are essential for running **ConvNTM** on the respective datasets.
+
 ## Dependencies
 
 * Python>=3.7
